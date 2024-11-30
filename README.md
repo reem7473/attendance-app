@@ -43,11 +43,3 @@ Before running the app, make sure you have the following installed:
 The app should now launch on the emulator or connected device.
 
 
-
-
-# attendance-management-app
-# attendance-management-app
-# attendance-management-app
-"# attendance-app" 
-"# attendance-app" 
-"# attendance-app" 
