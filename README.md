@@ -48,3 +48,4 @@ The app should now launch on the emulator or connected device.
 # attendance-management-app
 # attendance-management-app
 # attendance-management-app
+"# attendance-app" 
